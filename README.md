@@ -1,1 +1,1 @@
-# mc-mob-viewer
+# Mob Viewer for Minecraft
